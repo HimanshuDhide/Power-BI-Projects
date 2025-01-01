@@ -9,7 +9,7 @@ Open the Files:
 
 For Power BI: Open the .pbix file in Power BI Desktop.
 For code-based projects: Open the project folder in your preferred code editor (e.g., VS Code).
-Explore the Visualizations or Code:
 
+Explore the Visualizations or Code:
 For Power BI projects: Interact with the dashboards and explore key metrics, trends, or insights.
 For other projects: Follow the project instructions or explore the functionality as per the project documentation.
